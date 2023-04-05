@@ -1,8 +1,7 @@
 # SNEEV
 
-Please follow the instruction from BiasChecker to use the tool
+Please follow the instruction from [BiasChecker](https://github.com/SocialMachineLab/BiasChecker) to use the tool
 
-[# BiasChecker](https://github.com/SocialMachineLab/BiasChecker)
 
 ## Installation
 
