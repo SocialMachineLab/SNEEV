@@ -2,7 +2,7 @@
 
 Please follow the instruction from BiasChecker to use the tool
 
-# BiasChecker
+[# BiasChecker](https://github.com/SocialMachineLab/BiasChecker)
 
 ## Installation
 
