@@ -1,0 +1,55 @@
+{
+    "session_id": "t_p10",
+    "max_results": 10,
+    "interval": 1000,
+    "date_intervals": [
+        ""
+    ],
+
+    "agents": {
+        "pro_agent": {
+            "id": "pro_agent",
+            "username": "username",
+            "password": "password",
+            "platform": "twitter",
+            "ip": "localhost",
+            "port": "30001",
+            "profiles": [   "washingtonpost"  ,"https://twitter.com/Hozier/status/1372155759807586308" ],
+            "queries": [
+                "John Babcock", "Eugenie Blanchard"
+            ]
+        },
+        "neutral_agent": {
+            "id": "neutral_agent",
+            "username": "username",
+            "password": "password",
+            "platform": "twitter",
+            "ip": "localhost",
+            "port": "30001",
+            "profiles": [
+                "teleSURtv",
+                "LulaOficial"
+            ],
+            "queries": [
+                "John Babcock", "Eugenie Blanchard"
+            ]
+        },
+        "anti_agent": {
+            "id": "anti_agent",
+            "username": "username",
+            "password": "password",
+            "platform": "twitter",
+            "ip": "localhost",
+            "port": "30001",
+            "profiles": [
+                "teleSURtv",
+                "LulaOficial"
+            ],
+            "queries": [
+                "John Babcock", "Eugenie Blanchard"
+            ]
+        }
+
+
+    }
+}
